@@ -1,0 +1,25 @@
+import 'dart:io'; 
+
+void main ()
+
+{
+    
+int produto, cont, soma; 
+ 
+   soma=0; 
+   
+ for(cont=1; cont<=5; cont++)
+
+{
+   
+ print("Digite o valor do produto:"); 
+ 
+    soma=soma+produto; 
+  
+  
+}
+
+print("A soma do valor dos produtos sera= $soma");
+
+
+}
